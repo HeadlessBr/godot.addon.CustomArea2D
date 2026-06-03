@@ -3,7 +3,7 @@
 
 
 -Como integrar?
- Adicione um node novo na cena (Ctrl+a) e busque por "CustomArea2D".
+  Adicione um node novo na cena (Ctrl+a) e busque por "CustomArea2D".
  No node, selecione o grupo pela qual ele irá detectar colisão na variável Group.
  Utilize o signal 'trigger' para ativar, no momento da colisão, a função de outro node da mesma cena.
 
