@@ -17,4 +17,4 @@
  Será possível passar informações na chamada da colisão.
 
 -Diagrama de Uso:
-[diagrama de uso](https://github.com/HeadlessBr/godot.addon.CustomArea2D/blob/main/diagram.webp)
+![diagrama de uso](https://github.com/HeadlessBr/godot.addon.CustomArea2D/blob/main/diagram.webp)
