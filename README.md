@@ -1,5 +1,5 @@
 # CustomArea2D
- esboço e feedback para o addon que pretendo desenvolver
+ esboço e feedback para o addon que estou desenvolvendo
 
 
 -Como integrar?
